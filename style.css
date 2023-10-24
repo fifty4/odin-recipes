@@ -2,4 +2,19 @@
     background-color: teal;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
+    width: 250px;
+    margin-left: 135px;
+}
+
+
+.button1,
+.button2,
+.button3 {
+    display: inline-block;
+    color: FF0000;
+    padding: 10px;
+    height: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: none;
+    text-align: center;
 }
